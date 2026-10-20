@@ -1,5 +1,18 @@
 [
   {
+    "ch": "03 / EL PROCESO",
+    "title": "La base condiciona<br>el resultado",
+    "sub": "Compatibilidad y preparación",
+    "points": [
+      "Confirmación del material de la restauración",
+      "Revisión de forma y espacio disponible",
+      "Preparación y limpieza conforme a las instrucciones de uso"
+    ],
+    "img": "materiales-compatibilidad-ilustracion.svg",
+    "notes": "Basado en diapositivas 10–11. El sistema incluye aplicaciones sobre zirconio, disilicato de litio y cerámica feldespática compatibles. Los armazones de titanio se mencionan con recubrimiento cerámico adecuado, no como aplicación directa sobre metal expuesto. No fijar aquí presiones de arenado ni parámetros de grabado, pues dependen del sustrato y de las instrucciones correspondientes. Transición: Primero, el mapa de color",
+    "kind": "split"
+  },
+  {
     "ch": "MASTERCLASS / NORMAN DÍAZ",
     "title": "Estética rosa<br><em>en congruencia</em>",
     "sub": "VITA LUMEX® UNIQUE GINGIVA",
@@ -131,19 +144,6 @@
     "img": null,
     "notes": "Recorrer cada etapa con los botones. Esta organización resume el material aportado y sirve para exponer el razonamiento. No es una reproducción literal de un protocolo BASIC GINGIVA oficial. Antes de utilizar el producto, consultar las instrucciones de uso vigentes para preparación, compatibilidad y cocción. Transición: La base condiciona el resultado Las fotografías ilustran decisiones de trabajo, no constituyen una secuencia longitudinal de un único caso. Avanzar manualmente las seis etapas. En etapa 3, alternar fotografía y esquema oficial del paso 2 de BASIC GINGIVA (IFU p. 18). En etapa 4, observar la fotografía de distribución de TEXTURE (IFU p. 20). Son ejemplos de flujos distintos, reunidos para explicar las decisiones.",
     "kind": "workflow"
-  },
-  {
-    "ch": "03 / EL PROCESO",
-    "title": "La base condiciona<br>el resultado",
-    "sub": "Compatibilidad y preparación",
-    "points": [
-      "Confirmación del material de la restauración",
-      "Revisión de forma y espacio disponible",
-      "Preparación y limpieza conforme a las instrucciones de uso"
-    ],
-    "img": "materiales-compatibilidad-ilustracion.svg",
-    "notes": "Basado en diapositivas 10–11. El sistema incluye aplicaciones sobre zirconio, disilicato de litio y cerámica feldespática compatibles. Los armazones de titanio se mencionan con recubrimiento cerámico adecuado, no como aplicación directa sobre metal expuesto. No fijar aquí presiones de arenado ni parámetros de grabado, pues dependen del sustrato y de las instrucciones correspondientes. Transición: Primero, el mapa de color",
-    "kind": "split"
   },
   {
     "ch": "03 / EL PROCESO",
