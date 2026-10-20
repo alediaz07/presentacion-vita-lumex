@@ -7,6 +7,7 @@ const reduced=window.matchMedia('(prefers-reduced-motion: reduce)');
 const presenter=new URLSearchParams(location.search).get('presenter')==='1';
 const hash=Number((location.hash.match(/slide-(\d+)/)||[])[1]);
 const state={current:Math.max(0,Math.min(slides.length-1,(hash||1)-1)),exploring:false,returnTo:0,toneFamily:'effect',tone:0,compareTone:null,selectSecond:false,hotspot:null,step:0,scheme:false,micro:.15,relief:50,light:35,cut:50,zoom:false,answers:{}};
+const intro=$('#introSplash');if(intro&&!presenter){const dismissIntro=()=>intro.classList.add('is-hidden');window.setTimeout(dismissIntro,reduced.matches?0:3500);intro.addEventListener('click',dismissIntro,{once:true});}
 const chapters=[{name:'La mirada estética',start:0,sub:'Observación clínica, proporción y lectura del conjunto'},{name:'Materiales y decisiones',start:5,sub:'Sistema cerámico 3D, paletas GINGIVA y microcapas'},{name:'Secuencia de trabajo',start:10,sub:'Protocolo paso a paso, textura y control de cocción'},{name:'Evaluación y cierre',start:17,sub:'Comparación de superficies y criterios de revisión'}];
 // Product names and families follow VITA's material overview and the supplied chart.
 // Array fields: label, indicative interface color, printed number or product code.
