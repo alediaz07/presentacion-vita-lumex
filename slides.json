@@ -24,6 +24,19 @@
         "kind":  "palette"
     },
     {
+        "ch":  "DECISIÓN Y CIERRE",
+        "title":  "Una decisión\u003cbr\u003epara cada efecto",
+        "sub":  "Color con EFFECT. Superficie con TEXTURE. Acabado con criterio.",
+        "points":  [
+                       "La referencia define la intención",
+                       "Las microcapas exigen control",
+                       "La zona rosa mantiene su identidad óptica"
+                   ],
+        "img":  null,
+        "notes":  "Recuperar las respuestas del inicio y relacionarlas con el sistema. Resumir la diferencia entre las familias de material y el papel del glaseado no fluorescente. Invitar a pasar de la charla a la observación práctica. No añadir beneficios cuantitativos no documentados. Transición: De esta manera agregamos valor con VITA UNIQUE",
+        "kind":  "closing"
+    },
+    {
         "ch":  "SUSTRATOS Y PREPARACIÓN",
         "title":  "La base condiciona\u003cbr\u003eel resultado",
         "sub":  "Compatibilidad y preparación",
@@ -239,19 +252,6 @@
         "img":  "image122.jpeg",
         "notes":  "Presentar estas señales como preguntas de control, no como diagnósticos automáticos. Un resultado puede tener más de una causa. Pedir un ejemplo del laboratorio. Si surge un fallo concreto, revisar documentación, registro de cocción y material antes de indicar una corrección. Evitar añadir capas de forma automática. Transición: Una decisión para cada efecto",
         "kind":  "exercise"
-    },
-    {
-        "ch":  "DECISIÓN Y CIERRE",
-        "title":  "Una decisión\u003cbr\u003epara cada efecto",
-        "sub":  "Color con EFFECT. Superficie con TEXTURE. Acabado con criterio.",
-        "points":  [
-                       "La referencia define la intención",
-                       "Las microcapas exigen control",
-                       "La zona rosa mantiene su identidad óptica"
-                   ],
-        "img":  null,
-        "notes":  "Recuperar las respuestas del inicio y relacionarlas con el sistema. Resumir la diferencia entre las familias de material y el papel del glaseado no fluorescente. Invitar a pasar de la charla a la observación práctica. No añadir beneficios cuantitativos no documentados. Transición: De esta manera agregamos valor con VITA UNIQUE",
-        "kind":  "closing"
     },
     {
         "ch":  "CONVERSACIÓN ABIERTA",
