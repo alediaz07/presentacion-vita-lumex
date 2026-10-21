@@ -13,6 +13,17 @@
         "kind":  "split"
     },
     {
+        "ch":  "PALETA GINGIVA",
+        "title":  "La paleta GINGIVA",
+        "sub":  "Gingiva y familias del sistema VITA LUMEX UNIQUE",
+        "points":  [
+
+                   ],
+        "img":  "image74.png",
+        "notes":  "Explorar las familias del sistema y seleccionar cada producto. Diferenciar las pastas gingivales de las destinadas a caracterización dental y de los productos de acabado. La paleta RGB es solo orientativa. Los nombres verificados en el portafolio VITA son pale-papilla, light-rose, deep-pink, nectarine y deep-purple. No enseñar una asignación anatómica automática ni proporciones de mezcla que no figuran en el material. La elección exige muestras y referencia del caso. Transición: Textura con espesor controlado Comparar dos etiquetas comerciales. Los círculos de interfaz y las fotografías no constituyen una guía calibrada. No asignar un tono a cada zona de forma universal.",
+        "kind":  "palette"
+    },
+    {
         "ch":  "SUSTRATOS Y PREPARACIÓN",
         "title":  "La base condiciona\u003cbr\u003eel resultado",
         "sub":  "Compatibilidad y preparación",
@@ -35,17 +46,6 @@
         "img":  "image48.jpeg",
         "notes":  "Apertura. Presentar el objetivo: comprender cómo las pastas GINGIVA permiten trabajar color, profundidad y textura en la zona rosa. Preguntar: ¿qué detalle hace que una gingiva protésica parezca natural? Recoger dos respuestas y retomarlas al cierre. Curso teórico-práctico, 24 de octubre de 2026, según el afiche aportado. Transición: Una ruta para la masterclass",
         "kind":  "hero"
-    },
-    {
-        "ch":  "PALETA GINGIVA",
-        "title":  "La paleta GINGIVA",
-        "sub":  "Gingiva y familias del sistema VITA LUMEX UNIQUE",
-        "points":  [
-
-                   ],
-        "img":  "image74.png",
-        "notes":  "Explorar las familias del sistema y seleccionar cada producto. Diferenciar las pastas gingivales de las destinadas a caracterización dental y de los productos de acabado. La paleta RGB es solo orientativa. Los nombres verificados en el portafolio VITA son pale-papilla, light-rose, deep-pink, nectarine y deep-purple. No enseñar una asignación anatómica automática ni proporciones de mezcla que no figuran en el material. La elección exige muestras y referencia del caso. Transición: Textura con espesor controlado Comparar dos etiquetas comerciales. Los círculos de interfaz y las fotografías no constituyen una guía calibrada. No asignar un tono a cada zona de forma universal.",
-        "kind":  "palette"
     },
     {
         "ch":  "CRITERIO Y MÉTODO",
