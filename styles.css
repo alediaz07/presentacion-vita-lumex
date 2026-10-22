@@ -160,3 +160,5 @@ body.dark:has(.scene img[src$="/image73.png"]),body.dark:has(.scene.split img[sr
 .chapter-label{display:none!important}
 
 
+
+.signature-date{display:flex;align-items:center;gap:14px}.trainer-seal{width:76px;height:76px;object-fit:contain;display:block}
