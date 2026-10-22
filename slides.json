@@ -157,7 +157,7 @@
             "Control visual de la intensidad",
             "Transiciones que mantienen el color de base"
         ],
-        "img": "image74.png",
+        "img": "slide-13-restauracion-sin-fondo.webp",
         "notes": "Explicar el propósito de construir variación en lugar de saturar uniformemente. El archivo indica que el color puede verse durante la aplicación, lo que ayuda al control. Evitar prometer identidad exacta entre el estado húmedo y el resultado final. Pedir al grupo identificar una zona donde sería preferible no añadir más color. Transición: Transparencia sobre el efecto",
         "kind": "split"
     },
